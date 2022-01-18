@@ -1,0 +1,2 @@
+Prediction of Net worth as per ages.
+using simple linear regression.
